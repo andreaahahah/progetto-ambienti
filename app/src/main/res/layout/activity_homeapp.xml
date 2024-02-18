@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0D9FDC"
+    android:layoutMode="clipBounds"
+    android:visibility="visible"
+    tools:context=".MainActivity"
+    tools:visibility="visible">
+
+    <Button
+        android:id="@+id/findbutton"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="140dp"
+        android:layout_marginEnd="114dp"
+        android:text="@string/trova_parcheggio"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/paybutton"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="114dp"
+        android:text="@string/parcheggia"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/findbutton" />
+
+    <Button
+        android:id="@+id/yourbutton"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="114dp"
+        android:text="@string/tuoi_parcheggi"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/paybutton" />
+
+    <Button
+        android:id="@+id/outlog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="15dp"
+        android:backgroundTint="#0D9FDC"
+        android:text="LOGOUT"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

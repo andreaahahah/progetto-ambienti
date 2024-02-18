@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PARKEZZZ</string>
+    <string name="trova_parcheggio">TROVA PARCHEGGIO</string>
+
+    <string name="tuoi_parcheggi">I TUOI PARCHEGGI</string>
+    <string name="mostra_pass">Mostra password</string>
+    <string name="accedi">ACCEDI</string>
+    <string name="registrati">REGISTRATI</string>
+    <string name="oppure">OPPURE</string>
+    <string name="nome_cognome">Nome e cognome</string>
+    <string name="indicazioni">da 4 a 9 caratteri di cui almeno un numero e una lettera</string>
+    <string name="vicini_a_te">PARCHEGGI VICINO A TE</string>
+    <string name="email">email</string>
+    <string name="pass">Password</string>
+    <string name="info">INFO</string>
+    <string name="parcheggia">PARCHEGGIA</string>
+    <string name="codice">codice parcheggio</string>
+    <string name="durata">durata parcheggio in ore</string>
+    <string name="paga"> PAGA</string>
+
+</resources>

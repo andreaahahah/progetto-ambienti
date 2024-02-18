@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="citta_array">
+        <item>Città 2€/h</item>
+        <item>Cosenza 2€/h</item>
+        <item>Reggio calabria 2€/h</item>
+        <item>Rosarno 2€/h</item>
+        <item>Rende 2€/h</item>
+        <item>Crotone 2€/h</item>
+        <item>Vibo Valentia 2€/h</item>
+        <item>Nicotera 2€/h</item>
+
+    </string-array>
+
+</resources>
