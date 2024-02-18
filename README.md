@@ -1,5 +1,6 @@
 ## Team
 
+- [Chiara Costantino 230582](https://github.com/chiaraacostantino)
 - [Andrea Farfaglia 234488](https://github.com/andreaahahah)
 - [Francesco Frattolillo 231769](https://github.com/Frattox)
 
