@@ -10,7 +10,8 @@ Parkezzz è un'applicazione Android sviluppata per semplificare la gestione dei 
 ## Alcuni Screenshot
 <p float="left">
   <img src="https://github.com/andreaahahah/progetto-ambienti/assets/130981372/f0bddac2-086a-4a56-bd25-dfdf4c4e7b9d" width="30%">
-  <img src="https://github.com/andreaahahah/progetto-ambienti/assets/130981372/6a33921d-c8a3-480d-babf-0e4510d6433b" width="30%">
   <img src="https://github.com/andreaahahah/progetto-ambienti/assets/130981372/89c8c71d-2912-49ff-95a1-939a15a7f191" width="30%">
+  <img src="https://github.com/andreaahahah/progetto-ambienti/assets/130981372/6a33921d-c8a3-480d-babf-0e4510d6433b" width="30%">
+ 
 </p>
 
